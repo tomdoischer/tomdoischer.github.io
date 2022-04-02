@@ -22,7 +22,7 @@ urls:
 author_logo: profile_small.png
 author: Tom Doischer
 author_bio: I'm Tom Doischer, a Prague based developer. I have a background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs.
-author_email: "nope@gmail.com.com"
+author_email:
 author_location: Prague, Czech Republic
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
