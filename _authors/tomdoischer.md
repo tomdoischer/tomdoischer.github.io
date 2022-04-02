@@ -3,7 +3,7 @@ name: Tom Doischer
 username: tomdoischer
 bio: "I'm Tom Doischer, a Prague based developer. I have a background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs."
 site: https://tomdoischer.github.io
-avatar: profile-small.png
+avatar: profile_small.png
 email:
 social:
     - title: "github"
