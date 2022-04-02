@@ -1,7 +1,7 @@
 title: Tom Doischer
 subtitle: Website and Blog
 description: I'm Tom Doischer, a Prague-based developer. I have a background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs.
-typewrite-text: I'm Tom Doischer, a Prague-based developer. Background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs.
+typewrite-text: I'm a Prague-based developer. Background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs.
 
 url: "https://tomdoischer.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
