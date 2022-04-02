@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World"
 summary: "This is empty"
 author: tomdoischer
-date: '2021-02-28 1:35:23 +0530'
+date: '2022-04-02 1:35:23 +0530'
 category: ['guides', 'programming', 'coffee']
 tags: coffee
 thumbnail: /assets/img/posts/code.jpg
