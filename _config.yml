@@ -1,7 +1,6 @@
 title: Tom Doischer
 subtitle: Website and Blog
-description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal site and blog. Based on the awesome template devlopr-jekyll.
+description: I'm Tom Doischer, a Prague based developer. I have a background in philosophy and linguistics. Love gadgets, coffee, plants, guinea pigs.
 
 url: "https://tomdoischer.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
