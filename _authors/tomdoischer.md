@@ -28,4 +28,6 @@ social:
     #   url: "https://dribbble.com/johndoe"
     # - title: "flickr"
     #   url: "https://flickr.com/johndoe"
+    - title: "goodreads"
+      url: "https://www.goodreads.com/tomdoischer"
 ---
