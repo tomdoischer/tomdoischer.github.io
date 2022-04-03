@@ -46,7 +46,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: bcv.png
+              - project_thumbnail: bcv_large.png
                 project_title: CzechIdM
                 project_description: An identity management solution
                 project_url: https://www.bcvsolutions.eu
